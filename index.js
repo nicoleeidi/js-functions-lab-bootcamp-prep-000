@@ -1,6 +1,11 @@
 // write your code below!
-funtion happyHolidays()
+funtion sayhappyHolidays()
 return "Happy holidays!"
 
-function happyHolidaysto(name)
+function sayhappyHolidaysto(name)
 return `Happy holidays, ${name}!`
+
+function say (holiday, name)
+return `Happy ${holiday}, ${name}!`
+
+function 
